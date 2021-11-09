@@ -1,0 +1,645 @@
+{
+    "blockchain": "solana",
+    "tokens": [
+        {
+            "name": "Solana",
+            "website": "https://solana.com/",
+            "description": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.",
+            "explorer": "https://explorer.solana.com/",
+            "research": "https://research.binance.com/en/projects/solana",
+            "symbol": "SOL",
+            "type": "coin",
+            "decimals": 9,
+            "status": "active",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/solana-labs"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/solana"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/solana"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://github.com/solana-labs/whitepaper"
+                }
+            ]
+        },
+        {
+            "name": "SolAPE Finance",
+            "type": "SPL",
+            "symbol": "SOLAPE",
+            "decimals": 9,
+            "website": "https://solape.io",
+            "description": "SOLAPE is a deflationary token and Decentralized exchange built on the Solana Network. Built by Apes, For Apes. ",
+            "explorer": "https://explorer.solana.com/address/GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN",
+            "status": "active",
+            "id": "GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/solapefinance"
+                },
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/Ypwhz2BPCd"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/coins/solape-token"
+                },
+                {
+                    "name": "coinmarketcap",
+                    "url": "https://coinmarketcap.com/currencies/solapefinance"
+                }
+            ]
+        },
+        {
+            "name": "Wrapped BTC",
+            "type": "SPL",
+            "symbol": "BTC",
+            "decimals": 6,
+            "website": "https://bitcoin.org/en/",
+            "description": "Bitcoin is an innovative payment network and a new kind of money.",
+            "explorer": "https://explorer.solana.com/address/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+            "status": "active",
+            "id": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+            "links": [
+                {
+                    "name": "whitepaper",
+                    "url": "https://bitcoin.org/en/bitcoin-paper"
+                },
+                {
+                    "name": "blog",
+                    "url": "https://bitcoin.org/en/blog"
+                }
+            ]
+        },
+        {
+            "name": "Cryptocurrencies.Ai",
+            "website": "https://cryptocurrencies.ai",
+            "description": "Next Generation crypto exchange $CCAI with DeFi products on Solana and CEX with Smart trading.",
+            "explorer": "https://explorer.solana.com/address/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+            "type": "SPL",
+            "symbol": "CCAI",
+            "decimals": 9,
+            "status": "active",
+            "id": "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp"
+        },
+        {
+            "name": "Wrapped ETH",
+            "type": "SPL",
+            "symbol": "ETH",
+            "decimals": 6,
+            "website": "https://ethereum.org/en/",
+            "description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
+            "explorer": "https://explorer.solana.com/address/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+            "status": "active",
+            "id": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/ethereum/ethereum-org-website"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/ethdotorg"
+                },
+                {
+                    "name": "youtube",
+                    "url": "https://youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g"
+                },
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/invite/CetY6Y4"
+                }
+            ]
+        },
+        {
+            "name": "Wrapped XRP",
+            "type": "SPL",
+            "symbol": "XRP",
+            "decimals": 6,
+            "website": "https://ripple.com/xrp/",
+            "description": "XRP is a digital asset built for payments",
+            "explorer": "https://explorer.solana.com/address/Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8",
+            "status": "active",
+            "id": "Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8",
+            "links": [
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/ripplepay"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Ripple"
+                }
+            ]
+        },
+        {
+            "name": "Kin",
+            "website": "https://kin.org/",
+            "description": "Kin is money for the digital world. It is used to generate value through a shared, decentralized cryptocurrency in a digital ecosystem of apps and their users.",
+            "explorer": "https://explorer.solana.com/address/kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+            "type": "SPL",
+            "symbol": "KIN",
+            "decimals": 5,
+            "status": "active",
+            "id": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6"
+        },
+        {
+            "name": "Million",
+            "website": "https://milliontoken.org",
+            "description": "Million is a digital currency with 1,000,000 total supply. https://milliontoken.org",
+            "explorer": "https://explorer.solana.com/address/FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd",
+            "type": "SPL",
+            "symbol": "MM",
+            "decimals": 9,
+            "status": "active",
+            "id": "FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd",
+            "links": [
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/invite/million"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/millionjacuzzibar"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/milliontoken/"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Million__Token"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/groups/milliontoken"
+                },
+                {
+                    "name": "coinmarketcap",
+                    "url": "https://coinmarketcap.com/currencies/million/"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/en/coins/million"
+                }
+            ]
+        },
+        {
+            "name": "Wrapped FTX",
+            "type": "SPL",
+            "symbol": "FTT",
+            "decimals": 6,
+            "website": "https://ftx.com",
+            "description": "FTX’s leveraged tokens aim to provide a clean, automated way for users to get leverage. FTT is the FTX ecosystem utility token.",
+            "explorer": "https://explorer.solana.com/address/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+            "status": "active",
+            "id": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/FTX_Official"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/FTX_Official"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://docs.google.com/document/d/1u5MOkENoWP8PGcjuoKqRkNP5Gl1LLRB9JvAHwffQ7ec/view"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/en/coins/ftx-token/"
+                },
+                {
+                    "name": "blog",
+                    "url": "https://blog.ftx.com/"
+                }
+            ]
+        },
+        {
+            "name": "Brazilian Digital Token",
+            "website": "https://brztoken.io/",
+            "description": "BRZ is a fully backed Brazilian Real stablecoin, a multi-chain digital asset that provides international liquidity and ease-of-access to both Latin Americans and international players who wish to access the Brazilian market",
+            "explorer": "https://explorer.solana.com/address/FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD",
+            "type": "SPL",
+            "symbol": "BRZ",
+            "decimals": 4,
+            "status": "active",
+            "id": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD"
+        },
+        {
+            "name": "Wrapped USDC",
+            "website": "https://centre.io/usdc",
+            "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+            "explorer": "https://explorer.solana.com/address/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "type": "SPL",
+            "symbol": "USDC",
+            "decimals": 6,
+            "status": "active",
+            "id": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "links": [
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/stakingfacilities"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/solanabeach_io"
+                }
+            ]
+        },
+        {
+            "name": "Solanium",
+            "type": "SPL",
+            "symbol": "SLIM",
+            "decimals": 6,
+            "website": "https://solanium.io",
+            "description": "Decentralized fundraising and trading platform on the Solana blockchain.",
+            "explorer": "https://explorer.solana.com/address/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
+            "status": "active",
+            "id": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW"
+        },
+        {
+            "name": "Wrapped USDT",
+            "website": "https://tether.to",
+            "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+            "explorer": "https://explorer.solana.com/address/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4",
+            "type": "SPL",
+            "symbol": "USDT",
+            "decimals": 6,
+            "status": "active",
+            "id": "BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4",
+            "links": [
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/stakingfacilities"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/solanabeach_io"
+                },
+                {
+                    "name": "github",
+                    "url": "https://github.com/solana-beach/issue-tracker"
+                }
+            ]
+        },
+        {
+            "name": "Holdana",
+            "type": "SPL",
+            "symbol": "HOLD",
+            "decimals": 9,
+            "website": "https://holdana.finance",
+            "description": "Holdana is a community-driven token built on Solana Ecosystem. We plan to be the first hold-rewarding token, providing our already strong and fast-growing community a fun & rewarding experience with the blockchain technology.",
+            "explorer": "https://explorer.solana.com/address/8GQsW3f7mdwfjqJon2myADcBsSsRjpXmxHYDG8q1pvV6",
+            "status": "active",
+            "id": "8GQsW3f7mdwfjqJon2myADcBsSsRjpXmxHYDG8q1pvV6"
+        },
+        {
+            "name": "Maps.me",
+            "type": "SPL",
+            "symbol": "MAPS",
+            "decimals": 6,
+            "website": "https://maps.me",
+            "description": "Maps.me 2.0 is the ultimate travel companion and your passport to the new financial system.",
+            "explorer": "https://explorer.solana.com/address/MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+            "status": "active",
+            "id": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb"
+        },
+        {
+            "name": "Serum",
+            "website": "https://projectserum.com/",
+            "description": "Serum is a decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless.",
+            "explorer": "https://explorer.solana.com/address/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "type": "SPL",
+            "symbol": "SRM",
+            "decimals": 6,
+            "status": "active",
+            "id": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/projectserum"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/ProjectSerum"
+                },
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/invite/zxPsXcB"
+                }
+            ]
+        },
+        {
+            "name": "Stonks",
+            "type": "SPL",
+            "symbol": "STNK",
+            "decimals": 9,
+            "website": "https://www.stonkscoin.org/",
+            "description": "Stonks is a meme token that represents the STONKS meme, and to spread awareness about Solana",
+            "explorer": "https://explorer.solana.com/address/43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+            "status": "active",
+            "id": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We"
+        },
+        {
+            "name": "SKEM",
+            "type": "SPL",
+            "symbol": "SKEM",
+            "decimals": 9,
+            "website": "https://skem.finance",
+            "description": "SKEM is a Solana meme token with scam busting abilities.",
+            "explorer": "https://explorer.solana.com/address/3x7UeXDF4imKSKnizK9mYyx1M5bTNzpeALfPeB8S6XT9",
+            "status": "active",
+            "id": "3x7UeXDF4imKSKnizK9mYyx1M5bTNzpeALfPeB8S6XT9"
+        },
+        {
+            "name": "Rope Token",
+            "website": "https://www.ropesolana.com",
+            "description": "$ROPE is a full-scale decentralized ecosystem that brings the well-known market volatility index to the crypto market.",
+            "explorer": "https://explorer.solana.com/address/8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo",
+            "type": "SPL",
+            "symbol": "ROPE",
+            "decimals": 9,
+            "status": "active",
+            "id": "8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo"
+        },
+        {
+            "name": "Raydium",
+            "type": "SPL",
+            "symbol": "RAY",
+            "decimals": 6,
+            "website": "https://raydium.io/",
+            "description": "Raydium is an on-chain order book automated market maker (AMM) that enables lightning-fast trades, shared liquidity and new features for earning yield.",
+            "explorer": "https://explorer.solana.com/address/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "status": "active",
+            "id": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "links": [
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/raydiumprotocol"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/RaydiumProtocol"
+                },
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/invite/6EvFwvCfpx"
+                }
+            ]
+        },
+        {
+            "name": "Wrapped FRONT",
+            "type": "SPL",
+            "symbol": "Wrapped FRONT",
+            "decimals": 6,
+            "website": "https://frontier.xyz/",
+            "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+            "explorer": "https://explorer.solana.com/address/9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw",
+            "status": "active",
+            "id": "9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw"
+        },
+        {
+            "name": "Wrapped USDC",
+            "type": "SPL",
+            "symbol": "USDC",
+            "decimals": 6,
+            "website": "https://www.centre.io/usdc",
+            "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+            "explorer": "https://explorer.solana.com/address/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW",
+            "status": "active",
+            "id": "BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/centrehq"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
+                },
+                {
+                    "name": "coinmarketcap",
+                    "url": "https://coinmarketcap.com/currencies/usd-coin/"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/en/coins/usd-coin/"
+                },
+                {
+                    "name": "medium",
+                    "url": "https://medium.com/centre-blog"
+                }
+            ]
+        },
+        {
+            "name": "USDT",
+            "type": "SPL",
+            "symbol": "USDT",
+            "decimals": 6,
+            "website": "https://tether.to",
+            "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+            "explorer": "https://explorer.solana.com/address/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "status": "active",
+            "id": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Tether_to/"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/OfficialTether"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/tether.to"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+                }
+            ]
+        },
+        {
+            "name": "LIQ Protocol",
+            "website": "https://www.liqsolana.com/",
+            "description": "LIQ is a decentralized liquidation engine built for Serum DEX margin markets on the Solana network",
+            "explorer": "https://explorer.solana.com/address/4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
+            "type": "SPL",
+            "symbol": "LIQ",
+            "decimals": 6,
+            "status": "active",
+            "id": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj"
+        },
+        {
+            "name": "Step Finance",
+            "website": "https://step.finance/",
+            "description": "Step Finance is the front page of Solana. Visualise, Analyse, Execute and Aggregate transactions across all Solana contracts in one place. Step is a portfolio management dashboard and transaction aggregator where users can monitor their tokens associated with their wallets, LP positions, Staked Yield farms, Margin positions and more.",
+            "explorer": "https://explorer.solana.com/address/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+            "type": "SPL",
+            "symbol": "STEP",
+            "decimals": 9,
+            "status": "active",
+            "id": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+            "links": [
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/k5gMJUAEJe"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/stepfinance_"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/en/coins/step-finance"
+                },
+                {
+                    "name": "coinmarketcap",
+                    "url": "https://coinmarketcap.com/currencies/step-finance/"
+                }
+            ]
+        },
+        {
+            "name": "The 4th Pillar Token",
+            "website": "https://4thtech.io/",
+            "description": "FOUR is 4thTech ecosystem utility token used as the primary means to enable services such as data file and instant messages wallet to wallet exchange.",
+            "explorer": "https://explorer.solana.com/address/DAtU322C23YpoZyWBm8szk12QyqHa9rUQe1EYXzbm1JE",
+            "type": "SPL",
+            "symbol": "FOUR",
+            "decimals": 9,
+            "status": "active",
+            "id": "DAtU322C23YpoZyWBm8szk12QyqHa9rUQe1EYXzbm1JE",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/4thtechProject"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/en/coins/the-4th-pillar"
+                },
+                {
+                    "name": "medium",
+                    "url": "https://medium.com/the4thpillar"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/the4thpillarofficial"
+                },
+                {
+                    "name": "youtube",
+                    "url": "https://youtube.com/c/4thpillartechnologies"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://github.com/4thtech/static-assets/raw/main/pdf/whitepaper.pdf"
+                },
+                {
+                    "name": "coinmarketcap",
+                    "url": "https://coinmarketcap.com/currencies/4thpillar-technologies/"
+                }
+            ]
+        },
+        {
+            "name": "COPE",
+            "type": "SPL",
+            "symbol": "COPE",
+            "decimals": 6,
+            "website": "https://www.unlimitedcope.com/",
+            "description": "Acquire COPE in a fun and low risk way, by unlocking your cope report and reaching the top of the COPE Index",
+            "explorer": "https://explorer.solana.com/address/8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
+            "status": "active",
+            "id": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh"
+        },
+        {
+            "name": "Wrapped Conceal",
+            "type": "SPL",
+            "symbol": "wCCX",
+            "decimals": 6,
+            "website": "https://conceal.network/",
+            "description": "Wrapped Conceal ($wCCX) is just a representation of ₡CCX on any of the available bridged ecosystems — a tokenized ₡CCX. Exactly one $wCCX will always represent (or equal) one ₡CCX.",
+            "explorer": "https://explorer.solana.com/address/CzqJTjTp3R9opDHmzF5Gy1G2NKDHEyMufa4Keiju4PLu",
+            "status": "active",
+            "id": "CzqJTjTp3R9opDHmzF5Gy1G2NKDHEyMufa4Keiju4PLu",
+            "links": [
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/concealnetworkusers"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/ConcealNetwork"
+                },
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/invite/YbpHVSd"
+                },
+                {
+                    "name": "github",
+                    "url": "https://github.com/sushiswap"
+                },
+                {
+                    "name": "medium",
+                    "url": "https://concealnetwork.medium.com/"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/en/coins/wrapped-conceal"
+                },
+                {
+                    "name": "coinmarketcap",
+                    "url": "https://coinmarketcap.com/currencies/wrapped-conceal/"
+                }
+            ]
+        },
+        {
+            "name": "COPE",
+            "website": "https://www.unlimitedcope.com",
+            "description": "Acquire COPE in a fun and low risk way, by unlocking your cope report and reaching the top of the COPE Index",
+            "explorer": "https://explorer.solana.com/address/3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE",
+            "type": "SPL",
+            "symbol": "COPE",
+            "decimals": 0,
+            "status": "active",
+            "id": "3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE"
+        },
+        {
+            "name": "Mango Markets",
+            "website": "https://mango.markets/",
+            "description": "Mango v3 is designed to make life easier for market participants",
+            "explorer": "https://explorer.solana.com/address/MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+            "type": "SPL",
+            "symbol": "MNGO",
+            "decimals": 6,
+            "status": "active",
+            "id": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/mangomarkets"
+                },
+                {
+                    "name": "coinmarketcap",
+                    "url": "https://coinmarketcap.com/currencies/mango-markets/"
+                },
+                {
+                    "name": "github",
+                    "url": "https://github.com/blockworks-foundation"
+                }
+            ]
+        }
+    ]
+}

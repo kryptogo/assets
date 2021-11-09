@@ -1,0 +1,2634 @@
+{
+    "blockchain": "tron",
+    "tokens": [
+        {
+            "name": "TRON",
+            "website": "https://tron.network/",
+            "description": "TRON is dedicated to building the infrastructure for a truly decentralized Internet.",
+            "explorer": "https://tronscan.io/#/",
+            "research": "https://research.binance.com/en/projects/tron",
+            "symbol": "TRX",
+            "type": "coin",
+            "decimals": 6,
+            "status": "active",
+            "tags": [
+                "staking-native"
+            ],
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/tronprotocol"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Tronfoundation"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/Tronix"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://developers.tron.network/docs"
+                }
+            ]
+        },
+        {
+            "name": "SEED",
+            "website": "https://sesameseed.org",
+            "description": "Sesameseed is a blockchain community that aims to provide fair and transparent representation in delegated governance.",
+            "explorer": "https://tronscan.io/#/token20/TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh",
+            "research": "",
+            "type": "TRC20",
+            "symbol": "SEED",
+            "decimals": 6,
+            "status": "active",
+            "id": "TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh"
+        },
+        {
+            "name": "TRONBEAN",
+            "symbol": "BEAN",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000981",
+            "status": "abandoned",
+            "id": "1000981"
+        },
+        {
+            "name": "BeatzCoin",
+            "symbol": "BTZC",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "BTZC is to be used on the VibraVid.io platform.",
+            "website": "https://www.beatzcoin.io/",
+            "explorer": "https://tronscan.io/#/token/1002413",
+            "status": "active",
+            "id": "1002413"
+        },
+        {
+            "name": "KiwiBerry",
+            "symbol": "KIWI",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001050",
+            "status": "abandoned",
+            "id": "1001050"
+        },
+        {
+            "name": "GEMS",
+            "symbol": "gems",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000943",
+            "status": "abandoned",
+            "id": "1000943"
+        },
+        {
+            "name": "GlobalRiceToken",
+            "symbol": "GRT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001865",
+            "status": "abandoned",
+            "id": "1001865"
+        },
+        {
+            "name": "SCT",
+            "symbol": "SCT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001092",
+            "status": "abandoned",
+            "id": "1001092"
+        },
+        {
+            "name": "Salvatio",
+            "symbol": "SVT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000375",
+            "status": "abandoned",
+            "id": "1000375"
+        },
+        {
+            "name": "FREE coin",
+            "website": "https://www.FREEcoin.technology",
+            "description": "The FREE coin is the ideal start-to-crypto coin : large community, many exchangess and wallets, available on Ethereum and Tron.",
+            "explorer": "https://tronscan.io/#/token/1003134",
+            "research": "https://bitcointalk.org/index.php?topic=3267883.msg34055291#msg34055291",
+            "type": "TRC10",
+            "symbol": "FREE",
+            "decimals": 6,
+            "status": "active",
+            "id": "1003134",
+            "links": [
+                {
+                    "name": "whitepaper",
+                    "url": "https://freecoin.technology/wp-content/uploads/2020/07/WHITEPAPER-2019-12.pdf"
+                }
+            ]
+        },
+        {
+            "name": "MegaTron",
+            "symbol": "MGA",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000577",
+            "status": "abandoned",
+            "id": "1000577"
+        },
+        {
+            "name": "Kioshu",
+            "symbol": "KIO",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "A Multi-Utility Gaming Token Utilized Across Multiple Platforms.",
+            "website": "https://kioshu.io/",
+            "explorer": "https://tronscan.io/#/token/1002023",
+            "status": "active",
+            "id": "1002023"
+        },
+        {
+            "name": "ORACLETRX",
+            "symbol": "OCTX",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001652",
+            "status": "abandoned",
+            "id": "1001652"
+        },
+        {
+            "name": "NoleWater",
+            "symbol": "AMSK",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "https://nolelegends.com/",
+            "explorer": "https://tronscan.io/#/token/1001699",
+            "status": "active",
+            "id": "1001699"
+        },
+        {
+            "name": "IGG",
+            "symbol": "IGG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000317",
+            "status": "abandoned",
+            "id": "1000317"
+        },
+        {
+            "name": "SHIPS",
+            "symbol": "SHIPS",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002672",
+            "status": "spam",
+            "id": "1002672"
+        },
+        {
+            "name": "EMStoken",
+            "symbol": "EMS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000945",
+            "status": "abandoned",
+            "id": "1000945"
+        },
+        {
+            "name": "KDG Token",
+            "symbol": "KDG",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "The aims of Kingdom Game 4.0 is participating in the process of promoting digital currency to become the first game token, to pioneer connecting current popular Games; With Smart Contract technology, multiple payment for Gamers, it shall be created a new market for people who own cryptocurrency. By buying Kingdom Game 4.0’s token at Agents nationwide. Gamers could buy in-game items or upgrade level.",
+            "website": "https://kingdomgame.org/",
+            "explorer": "https://tronscan.io/#/token20/TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
+            "status": "active",
+            "id": "TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu"
+        },
+        {
+            "name": "Intercoin",
+            "type": "TRC20",
+            "symbol": "INTC",
+            "decimals": 6,
+            "website": "https://www.intercoin.network",
+            "description": "In compliance with SEC regulations, INTC is the currency of the people, by the people, for the people. \n\nBecause every human being on the planet has the right to own cryptocurrency and the freedom to use it anywhere on a secure, fast, sustainable and decentralized network, without paying absurd transaction fees ...",
+            "explorer": "https://tronscan.io/#/token20/TQsm77PKjtpfawYu2LuQVTkigQcHPFLBaw",
+            "status": "active",
+            "id": "TQsm77PKjtpfawYu2LuQVTkigQcHPFLBaw"
+        },
+        {
+            "name": "Tronics",
+            "symbol": "TX",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001466",
+            "status": "abandoned",
+            "id": "1001466"
+        },
+        {
+            "name": "Baba",
+            "symbol": "BABA",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001801",
+            "status": "abandoned",
+            "id": "1001801"
+        },
+        {
+            "name": "CyberFM Radio",
+            "type": "TRC20",
+            "symbol": "CYFM",
+            "decimals": 6,
+            "website": "https://cyber-fm.com",
+            "description": "Utility token to reward Radio listeners and is 1 of 2 in the DLPRO Dual Token Economy.",
+            "explorer": "https://tronscan.io/#/token20/TZ5jA9F5zGRgi9qk9ATMu6D7wyEpnxQGJh",
+            "status": "active",
+            "id": "TZ5jA9F5zGRgi9qk9ATMu6D7wyEpnxQGJh",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/CyberFM/"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/CyberFM"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/mftudotnet"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/cyberfm"
+                }
+            ]
+        },
+        {
+            "name": "CraftToken",
+            "symbol": "CFT",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TSkG9SSKdWV5QBuTPN6udi48rym5iPpLof",
+            "status": "abandoned",
+            "id": "TSkG9SSKdWV5QBuTPN6udi48rym5iPpLof"
+        },
+        {
+            "name": "ONGISTRON",
+            "symbol": "ONGIS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001698",
+            "status": "abandoned",
+            "id": "1001698"
+        },
+        {
+            "name": "TronATM",
+            "symbol": "TATM",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001457",
+            "status": "abandoned",
+            "id": "1001457"
+        },
+        {
+            "name": "Friendster",
+            "symbol": "FSTER",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "Social media token. Web 2.0 on Tron Blockchain.",
+            "website": "https://www.friendster.io/",
+            "explorer": "https://tronscan.io/#/token/1002226",
+            "status": "active",
+            "id": "1002226"
+        },
+        {
+            "name": "DZGToken",
+            "symbol": "DZG",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TJoiXo9nPhqPFvYfuHjUzswdth9Lu7Vg2p",
+            "status": "spam",
+            "id": "TJoiXo9nPhqPFvYfuHjUzswdth9Lu7Vg2p"
+        },
+        {
+            "name": "RoboDollar",
+            "symbol": "RBD",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000318",
+            "status": "abandoned",
+            "id": "1000318"
+        },
+        {
+            "name": "CapitalShareToken",
+            "symbol": "CSTO",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "CSTO is the utility token of CSPay Platform on the TRON network.",
+            "website": "https://capitalst.io/",
+            "explorer": "https://tronscan.io/#/token20/TDh4z44NbqrCGVCCqBe753UqHW2CcDpurB",
+            "status": "active",
+            "id": "TDh4z44NbqrCGVCCqBe753UqHW2CcDpurB"
+        },
+        {
+            "name": "GOLDSECURE",
+            "symbol": "GOLD",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002483",
+            "status": "abandoned",
+            "id": "1002483"
+        },
+        {
+            "name": "POS",
+            "symbol": "POS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001837",
+            "status": "abandoned",
+            "id": "1001837"
+        },
+        {
+            "name": "DEXCoin",
+            "symbol": "XDX",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000897",
+            "status": "abandoned",
+            "id": "1000897"
+        },
+        {
+            "name": "Toman",
+            "website": "https://tomantoken.info/",
+            "description": "Simple buying and selling of goods online.",
+            "explorer": "https://tronscan.io/#/token/1003611",
+            "type": "TRC10",
+            "symbol": "TMN",
+            "decimals": 6,
+            "status": "active",
+            "id": "1003611",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/tomantoken"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/tomantoken"
+                }
+            ]
+        },
+        {
+            "name": "Bridge Token",
+            "symbol": "BRG",
+            "decimals": 6,
+            "website": "https://bridge.link/",
+            "description": "First Ever Public Oracle System on TRON Network",
+            "explorer": "https://tronscan.io/#/token20/TJvqNiWUN2v2NBG12UhfV7WSvReJkRP3VC",
+            "type": "TRC20",
+            "status": "active",
+            "id": "TJvqNiWUN2v2NBG12UhfV7WSvReJkRP3VC",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/cryptoland-blockchain-laboratory"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Bridge Oracle"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/BridgeOracle"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://bridge.link/Bridge_White_Paper.pdf"
+                }
+            ]
+        },
+        {
+            "name": "BitGuild PLAT",
+            "symbol": "PLAT",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "PLAT serves as the base for all BitGuild token operations, and is fully compatible with all its products, including GuildChat, GuildWallet and blockchain games.",
+            "website": "https://tronscan.io/www.bitguild.com",
+            "explorer": "https://tronscan.io/#/token20/TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
+            "status": "active",
+            "id": "TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb"
+        },
+        {
+            "name": "NETCOINCAPITAL",
+            "website": "https://netcoincapital.com",
+            "description": "NetcoinCapital is blockchain based project it's made for financial service, technology & future",
+            "explorer": "https://tronscan.io/#/token20/TWmocwvHpui48QXUVJeW2SvcFe8LyNgLCU",
+            "type": "TRC20",
+            "symbol": "NCC",
+            "decimals": 18,
+            "status": "active",
+            "id": "TWmocwvHpui48QXUVJeW2SvcFe8LyNgLCU",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/netcoincapital/"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/ncctoken"
+                },
+                {
+                    "name": "medium",
+                    "url": "https://medium.com/netcoincapital"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/ncc_trading"
+                }
+            ]
+        },
+        {
+            "name": "ORCA",
+            "symbol": "ORCA",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001920",
+            "status": "abandoned",
+            "id": "1001920"
+        },
+        {
+            "name": "Pallapay",
+            "type": "TRC20",
+            "symbol": "PALLA",
+            "decimals": 8,
+            "website": "https://www.pallapay.com/",
+            "description": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.",
+            "explorer": "https://tronscan.io/#/token20/TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
+            "status": "active",
+            "id": "TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg"
+        },
+        {
+            "name": "APENFT",
+            "symbol": "NFT",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "APENFT Fund was born with the mission to register world-class artworks as NFTs on-chain.",
+            "website": "https://apenft.org",
+            "explorer": "https://tronscan.io/#/token20/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+            "status": "active",
+            "id": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq"
+        },
+        {
+            "name": "GSG",
+            "symbol": "GSG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000854",
+            "status": "abandoned",
+            "id": "1000854"
+        },
+        {
+            "name": "DXAToken",
+            "symbol": "DXA",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TV2UZpAzMPuMNpzQW8FJEHidDB1oht7Anb",
+            "status": "abandoned",
+            "id": "TV2UZpAzMPuMNpzQW8FJEHidDB1oht7Anb"
+        },
+        {
+            "name": "CryptoBharatCoin",
+            "symbol": "CBC",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE",
+            "status": "abandoned",
+            "id": "TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE"
+        },
+        {
+            "name": "UPVOTE",
+            "symbol": "UPVT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000898",
+            "status": "abandoned",
+            "id": "1000898"
+        },
+        {
+            "name": "POPPY",
+            "symbol": "POPPY",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "A loyalty and reward token for the Poppy network.",
+            "website": "https://poppypos.com/",
+            "explorer": "https://tronscan.io/#/token/1001943",
+            "status": "active",
+            "id": "1001943"
+        },
+        {
+            "name": "DEG",
+            "symbol": "DEG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000891",
+            "status": "abandoned",
+            "id": "1000891"
+        },
+        {
+            "name": "TronInvestGroup",
+            "symbol": "TIG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000865",
+            "status": "abandoned",
+            "id": "1000865"
+        },
+        {
+            "name": "RLE",
+            "website": "https://richlabexchange.com/",
+            "description": "Richlab exchange is a cryptocurrency exchange, opening a new era. With the integration of the following services: 1. Shopping 2. Commercial auctions 3. Equity investment 4. Game blockchain 5. Service payment system. All of the above services are integrated",
+            "explorer": "https://tronscan.io/#/token20/TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
+            "research": "https://richlabexchange.com/",
+            "type": "TRC20",
+            "symbol": "RLE",
+            "decimals": 6,
+            "status": "active",
+            "id": "TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/richlabexchange"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/RLEswap"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/RichLabExChange"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://drive.google.com/file/d/1F_0cjSWeYfT8S9wN_lQe0qUvRwOl9Vwz/view"
+                }
+            ]
+        },
+        {
+            "name": "TURBOTHUNDERPAY",
+            "symbol": "TTRP",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002963",
+            "status": "spam",
+            "id": "1002963"
+        },
+        {
+            "name": "LoveHearts",
+            "symbol": "LVH",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000451",
+            "status": "abandoned",
+            "id": "1000451"
+        },
+        {
+            "name": "Alphard",
+            "symbol": "AHD",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002762",
+            "status": "abandoned",
+            "id": "1002762"
+        },
+        {
+            "name": "ZEDXION",
+            "type": "TRC20",
+            "symbol": "ZEDXION",
+            "decimals": 18,
+            "website": "https://zedxion.io/",
+            "description": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Zedxion Token.\n",
+            "explorer": "https://tronscan.io/#/token20/TMNTn2uFAHhkGE3uuM84rhfRRjt6ry9xnL",
+            "status": "active",
+            "id": "TMNTn2uFAHhkGE3uuM84rhfRRjt6ry9xnL"
+        },
+        {
+            "name": "SUDWA",
+            "symbol": "SUDWA",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001584",
+            "status": "abandoned",
+            "id": "1001584"
+        },
+        {
+            "name": "Klever",
+            "website": "https://klever.io",
+            "description": "Klever app is described to be a simple, secure p2p crypto wallet for blockchain.",
+            "explorer": "https://tronscan.io/#/token20/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+            "research": "",
+            "type": "TRC20",
+            "symbol": "KLV",
+            "decimals": 6,
+            "status": "active",
+            "id": "TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS"
+        },
+        {
+            "name": "TRONHERO",
+            "symbol": "THX",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001546",
+            "status": "abandoned",
+            "id": "1001546"
+        },
+        {
+            "name": "TRONFamily",
+            "symbol": "FAT",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "https://TRON-Family.de",
+            "explorer": "https://tronscan.io/#/token/1002939",
+            "status": "active",
+            "id": "1002939"
+        },
+        {
+            "name": "TRONGOLD",
+            "symbol": "GOLD",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000231",
+            "status": "abandoned",
+            "id": "1000231"
+        },
+        {
+            "name": "ZPAY",
+            "website": "https://zelaapay.ae",
+            "description": "ZPAE is the gateway to unlock the power of crypto all across the Middle East.",
+            "explorer": "https://tronscan.io/#/token20/TLGd97zsjrkomUDF962ZFMerdQxPffG7hX",
+            "type": "TRC20",
+            "symbol": "ZPAE",
+            "decimals": 18,
+            "status": "active",
+            "id": "TLGd97zsjrkomUDF962ZFMerdQxPffG7hX",
+            "links": [
+                {
+                    "name": "whitepaper",
+                    "url": "https://zelaapay.ae/wp-content/uploads/2020/08/Whitepaper-2.pdf"
+                }
+            ]
+        },
+        {
+            "name": "TEG",
+            "symbol": "TEG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000822",
+            "status": "abandoned",
+            "id": "1000822"
+        },
+        {
+            "name": "KAOSCANDY",
+            "symbol": "KAOS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "KAOSCANDY is an official Partner Token and integral game coin used within the game Eggies World. KAOSCANDY token will seek partnerships with other Blockchain games to expand the tokens use.",
+            "website": "http://www.kaoscandy.com/",
+            "explorer": "https://tronscan.io/#/token/1001107",
+            "status": "active",
+            "id": "1001107"
+        },
+        {
+            "name": "TronWow",
+            "symbol": "WOW",
+            "type": "TRC20",
+            "decimals": 9,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TAVDwcRTUpfibh5rr6GoE19FArsaHBfcur",
+            "status": "abandoned",
+            "id": "TAVDwcRTUpfibh5rr6GoE19FArsaHBfcur"
+        },
+        {
+            "name": "TRON GO",
+            "symbol": "GO",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
+            "status": "abandoned",
+            "id": "TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF"
+        },
+        {
+            "name": "AssChat",
+            "symbol": "ASS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001136",
+            "status": "abandoned",
+            "id": "1001136"
+        },
+        {
+            "name": "CharityCompassionCoin",
+            "symbol": "CCC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000010",
+            "status": "abandoned",
+            "id": "1000010"
+        },
+        {
+            "name": "DarkMatter",
+            "symbol": "DMX",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "Dark Matter is the token utilized by Moon Marketing to spread block-chain technology across the broad gaming community.",
+            "website": "https://www.moonmarketing.info/",
+            "explorer": "https://tronscan.io/#/token/1002575",
+            "status": "active",
+            "id": "1002575"
+        },
+        {
+            "name": "MGG",
+            "symbol": "MGG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000814",
+            "status": "abandoned",
+            "id": "1000814"
+        },
+        {
+            "name": "Tarquin",
+            "symbol": "Tarq",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000017",
+            "status": "abandoned",
+            "id": "1000017"
+        },
+        {
+            "name": "SexTronsPartys",
+            "symbol": "STP",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000641",
+            "status": "abandoned",
+            "id": "1000641"
+        },
+        {
+            "name": "Arcnet",
+            "symbol": "ARC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002116",
+            "status": "abandoned",
+            "id": "1002116"
+        },
+        {
+            "name": "LRX",
+            "symbol": "LRX",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1003097",
+            "status": "abandoned",
+            "id": "1003097"
+        },
+        {
+            "name": "Oikos Network Token",
+            "symbol": "OKS",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn",
+            "status": "abandoned",
+            "id": "TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn"
+        },
+        {
+            "name": "BUILDER",
+            "symbol": "BUILDER",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "Token of the game BUILDER.",
+            "website": "https://tronbuild.fun/",
+            "explorer": "https://tronscan.io/#/token/1002517",
+            "status": "active",
+            "id": "1002517"
+        },
+        {
+            "name": "TRONCITY",
+            "symbol": "TCO",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001359",
+            "status": "abandoned",
+            "id": "1001359"
+        },
+        {
+            "name": "DealWithIt",
+            "symbol": "DWI",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000849",
+            "status": "abandoned",
+            "id": "1000849"
+        },
+        {
+            "name": "SPOK",
+            "symbol": "SPK",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001361",
+            "status": "abandoned",
+            "id": "1001361"
+        },
+        {
+            "name": "TRD",
+            "symbol": "TRD",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001302",
+            "status": "abandoned",
+            "id": "1001302"
+        },
+        {
+            "name": "BTCX",
+            "symbol": "BTCX",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002573",
+            "status": "abandoned",
+            "id": "1002573"
+        },
+        {
+            "name": "DCIToken",
+            "symbol": "DCI",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TTYpHRvz826qA8ChsSvdJKfAY4wiY7p1NP",
+            "status": "spam",
+            "id": "TTYpHRvz826qA8ChsSvdJKfAY4wiY7p1NP"
+        },
+        {
+            "name": "TronWeeklyJournal",
+            "symbol": "TRWJ",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000475",
+            "status": "abandoned",
+            "id": "1000475"
+        },
+        {
+            "name": "dice",
+            "symbol": "dice",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001305",
+            "status": "abandoned",
+            "id": "1001305"
+        },
+        {
+            "name": "Botcoin",
+            "symbol": "BOT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001137",
+            "status": "abandoned",
+            "id": "1001137"
+        },
+        {
+            "name": "TWX",
+            "symbol": "TWX",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "TronWallet Exchange / Marketplace Token",
+            "website": "https://www.tronwallet.me/",
+            "explorer": "https://tronscan.io/#/token/1000018",
+            "status": "active",
+            "id": "1000018"
+        },
+        {
+            "name": "Tipatrade",
+            "symbol": "TAT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000824",
+            "status": "abandoned",
+            "id": "1000824"
+        },
+        {
+            "name": "EVO",
+            "symbol": "EVO",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "Token to power the DApp Evolution Ecosystem, including TronChat, TronRadar, TronCollectibles and more.",
+            "website": "https://dappevolution.com/",
+            "explorer": "https://tronscan.io/#/token/1001757",
+            "status": "active",
+            "id": "1001757"
+        },
+        {
+            "name": "TRONWALLET",
+            "symbol": "TWX",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "TronWallet Exchange / Marketplace Token.",
+            "website": "https://www.tronwallet.me/",
+            "explorer": "https://tronscan.io/#/token20/TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
+            "status": "active",
+            "id": "TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY"
+        },
+        {
+            "name": "TronSecure",
+            "symbol": "TSC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001596",
+            "status": "abandoned",
+            "id": "1001596"
+        },
+        {
+            "name": "HaveABreakHaveAKitKat",
+            "symbol": "HABKK",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000848",
+            "status": "abandoned",
+            "id": "1000848"
+        },
+        {
+            "name": "DYIToken",
+            "symbol": "DYI",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TAvQRWviGyfbjcbbDaLVrh7T3tfPK6N5He",
+            "status": "spam",
+            "id": "TAvQRWviGyfbjcbbDaLVrh7T3tfPK6N5He"
+        },
+        {
+            "name": "PeerToPeer",
+            "symbol": "PTP",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001367",
+            "status": "abandoned",
+            "id": "1001367"
+        },
+        {
+            "name": "PeerCash",
+            "symbol": "PEER",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1003406",
+            "status": "spam",
+            "id": "1003406"
+        },
+        {
+            "name": "CryptoDivaFund",
+            "symbol": "CDF",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "CryptoDiva Fund (CDF) is the official token of the Tron SR CryptoDiva. It will be used to facilitate knowledge sharing, game designing CD community building and other projects on Tron network.",
+            "website": "http://www.cryptodiva.io/",
+            "explorer": "https://tronscan.io/#/token/1001351",
+            "status": "active",
+            "id": "1001351"
+        },
+        {
+            "name": "DLNToken",
+            "symbol": "DLN",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TMhjbHzJCiMWqa5oqn2DF3mGw5yh9oQNf2",
+            "status": "abandoned",
+            "id": "TMhjbHzJCiMWqa5oqn2DF3mGw5yh9oQNf2"
+        },
+        {
+            "name": "HaloSocialMeetup",
+            "symbol": "Halo",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "Halo Social Meetup is social media simplified.",
+            "website": "https://www.halosocialmeetup.com/",
+            "explorer": "https://tronscan.io/#/token/1001500",
+            "status": "active",
+            "id": "1001500"
+        },
+        {
+            "name": "Vevocoin",
+            "website": "https://vevocoin.com/",
+            "telegram": "https://t.me/vevonews",
+            "twitter": "https://twitter.com/vevocoin",
+            "description": "VEVO is an open source platform in which everyone can use the code and token to their needs.",
+            "explorer": "https://tronscan.io/#/token/1003257",
+            "type": "TRC10",
+            "symbol": "VEVO",
+            "decimals": 6,
+            "status": "active",
+            "id": "1003257",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/vevodev"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://vevocoin.com/whitepaper.pdf"
+                }
+            ]
+        },
+        {
+            "name": "ADVCoin",
+            "symbol": "ADV",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001164",
+            "status": "abandoned",
+            "id": "1001164"
+        },
+        {
+            "name": "TronWatchMarket",
+            "symbol": "TWM",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000933",
+            "status": "abandoned",
+            "id": "1000933"
+        },
+        {
+            "name": "DEXCOIN",
+            "symbol": "XDEX",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000554",
+            "status": "abandoned",
+            "id": "1000554"
+        },
+        {
+            "name": "Happiness",
+            "type": "TRC20",
+            "symbol": "HPNS",
+            "decimals": 6,
+            "website": "https://way2happiness.info/",
+            "description": "Happiness",
+            "explorer": "https://tronscan.io/#/token20/TUH4wj8tox7sVxvkTqHLogn6mRVKfrK71M",
+            "status": "active",
+            "id": "TUH4wj8tox7sVxvkTqHLogn6mRVKfrK71M"
+        },
+        {
+            "name": "BitTorrent",
+            "website": "https://bittorrent.com/btt",
+            "description": "BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman.",
+            "explorer": "https://tronscan.io/#/token/1002000",
+            "type": "TRC10",
+            "symbol": "BTT",
+            "decimals": 6,
+            "status": "active",
+            "id": "1002000"
+        },
+        {
+            "name": "Blockclass",
+            "symbol": "BLC",
+            "type": "TRC10",
+            "decimals": 2,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002605",
+            "status": "abandoned",
+            "id": "1002605"
+        },
+        {
+            "name": "Mainstream For The Underground",
+            "website": "https://mftu.net",
+            "description": "Utility token to paying musicians through online radio. Paying Independent Musicians as a Distributed Ledger Performance Rights Organization.",
+            "explorer": "https://tronscan.io/#/token20/TPAQRJSVatTZLLaguCFMXGFKegKnqnKH2s",
+            "type": "TRC20",
+            "symbol": "MFTU",
+            "decimals": 18,
+            "status": "active",
+            "id": "TPAQRJSVatTZLLaguCFMXGFKegKnqnKH2s",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/CyberFM/"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Mainstream For The Underground"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/mftudotnet"
+                }
+            ]
+        },
+        {
+            "name": "TRONdice",
+            "symbol": "DICE",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
+            "status": "spam",
+            "id": "THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur"
+        },
+        {
+            "name": "TronPlace",
+            "symbol": "TPL",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002633",
+            "status": "abandoned",
+            "id": "1002633"
+        },
+        {
+            "name": "BOOK",
+            "symbol": "ART",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002234",
+            "status": "abandoned",
+            "id": "1002234"
+        },
+        {
+            "name": "LoveHeartsToken",
+            "symbol": "LVH",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "LoveHearts claims to be an online currency that connects people.",
+            "website": "https://t.me/LoveHeartsForever",
+            "explorer": "https://tronscan.io/#/token20/TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh",
+            "status": "active",
+            "id": "TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh"
+        },
+        {
+            "name": "CYBER",
+            "symbol": "CYBR",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001825",
+            "status": "abandoned",
+            "id": "1001825"
+        },
+        {
+            "name": "SUN",
+            "website": "https://sun.io",
+            "description": "SUN is a social experiment, which focuses on the DeFi potential of TRON.",
+            "explorer": "https://tronscan.io/#/token20/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+            "research": "https://research.binance.com/en/projects/sun",
+            "type": "TRC20",
+            "symbol": "SUN",
+            "decimals": 18,
+            "status": "active",
+            "id": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+        },
+        {
+            "name": "KsumNole",
+            "symbol": "MSK",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000935",
+            "status": "abandoned",
+            "id": "1000935"
+        },
+        {
+            "name": "GamingEmpowermentMaterialSource",
+            "symbol": "GEMS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000932",
+            "status": "abandoned",
+            "id": "1000932"
+        },
+        {
+            "name": "\"\"\"Poker Tron Token\"\"\"",
+            "symbol": "\"\"\"PKT\"\"\"",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TW2BkFwvkoH9Cx2zwifTacwkGSGiyiZWmt",
+            "status": "abandoned",
+            "id": "TW2BkFwvkoH9Cx2zwifTacwkGSGiyiZWmt"
+        },
+        {
+            "name": "TronEurope",
+            "symbol": "TRXE",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000131",
+            "status": "abandoned",
+            "id": "1000131"
+        },
+        {
+            "name": "TRONREFUNDS",
+            "symbol": "RFD",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001427",
+            "status": "abandoned",
+            "id": "1001427"
+        },
+        {
+            "name": "Vena",
+            "symbol": "vena",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh",
+            "status": "abandoned",
+            "id": "TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh"
+        },
+        {
+            "name": "ZOE CASH",
+            "type": "TRC20",
+            "symbol": "ZOE",
+            "decimals": 6,
+            "website": "https://zoe.cash/",
+            "description": "Zoe Cash Decentralised multipurpose system integrating finance, online training, certifications, jobs, encrypted social interaction and monetisation of goals, stored and validated on a proprietary blockchain.",
+            "explorer": "https://tronscan.io/#/token20/TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
+            "status": "active",
+            "id": "TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
+            "links": [
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/zoecashoficial"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/zoecash"
+                }
+            ]
+        },
+        {
+            "name": "CryptoBankCoin",
+            "symbol": "CBC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001411",
+            "status": "abandoned",
+            "id": "1001411"
+        },
+        {
+            "name": "TRON UP",
+            "symbol": "UP",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "TRON UP is a decentralized game platform, the main members of the team are blockchain technology enthusiasts from all over the world.",
+            "website": "https://tronup.io/",
+            "explorer": "https://tronscan.io/#/token20/TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
+            "status": "active",
+            "id": "TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU"
+        },
+        {
+            "name": "MedicCoin",
+            "symbol": "MEDIC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001203",
+            "status": "abandoned",
+            "id": "1001203"
+        },
+        {
+            "name": "KING OF DEFI",
+            "type": "TRC20",
+            "symbol": "KODX",
+            "decimals": 6,
+            "website": "https://kingofdefi.org/",
+            "description": "New Gateway for staking, lending and borrowing.",
+            "explorer": "https://tronscan.io/#/token20/TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq",
+            "status": "active",
+            "id": "TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq"
+        },
+        {
+            "name": "DTF",
+            "symbol": "DTF",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TYqgBctn2NjCQZLBbh1SMEAsH36mopnNqo",
+            "status": "abandoned",
+            "id": "TYqgBctn2NjCQZLBbh1SMEAsH36mopnNqo"
+        },
+        {
+            "name": "WorldTravelBlockchain",
+            "symbol": "WTB",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002671",
+            "status": "abandoned",
+            "id": "1002671"
+        },
+        {
+            "name": "LIME",
+            "symbol": "LIME",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001803",
+            "status": "abandoned",
+            "id": "1001803"
+        },
+        {
+            "name": "GVND",
+            "symbol": "GVND",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1003152",
+            "status": "abandoned",
+            "id": "1003152"
+        },
+        {
+            "name": "Santa",
+            "symbol": "Santa",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000985",
+            "status": "abandoned",
+            "id": "1000985"
+        },
+        {
+            "name": "TronTokensContributor",
+            "symbol": "TTC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001268",
+            "status": "abandoned",
+            "id": "1001268"
+        },
+        {
+            "name": "KvazarCash",
+            "symbol": "KVC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002270",
+            "status": "abandoned",
+            "id": "1002270"
+        },
+        {
+            "name": "SCC",
+            "symbol": "SCC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001091",
+            "status": "abandoned",
+            "id": "1001091"
+        },
+        {
+            "name": "HappyEX",
+            "symbol": "HappyEX",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002683",
+            "status": "abandoned",
+            "id": "1002683"
+        },
+        {
+            "name": "TronGuarD",
+            "symbol": "TGD",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002021",
+            "status": "abandoned",
+            "id": "1002021"
+        },
+        {
+            "name": "ICEDIUM",
+            "symbol": "ICD",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TPRuU2GbXPwvvSuggE4xKMRtzsfwYfvBWq",
+            "status": "abandoned",
+            "id": "TPRuU2GbXPwvvSuggE4xKMRtzsfwYfvBWq"
+        },
+        {
+            "name": "DeepCloudAI",
+            "symbol": "DEEP",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001834",
+            "status": "abandoned",
+            "id": "1001834"
+        },
+        {
+            "name": "StarWars",
+            "symbol": "Cred",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001030",
+            "status": "abandoned",
+            "id": "1001030"
+        },
+        {
+            "name": "RoboCoin",
+            "symbol": "RBC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000324",
+            "status": "abandoned",
+            "id": "1000324"
+        },
+        {
+            "name": "ORCAGOLD",
+            "symbol": "OrcaG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002028",
+            "status": "abandoned",
+            "id": "1002028"
+        },
+        {
+            "name": "BetaORCA",
+            "symbol": "BetaO",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001893",
+            "status": "abandoned",
+            "id": "1001893"
+        },
+        {
+            "name": "CryTrExCoin",
+            "symbol": "CRYT",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002043",
+            "status": "abandoned",
+            "id": "1002043"
+        },
+        {
+            "name": "TRONONE",
+            "symbol": "TONE",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "TRON ONE is one of SR of TRON, based on 'everyone build,everyone share'. TONE will build largest culture zone in TRON world.",
+            "website": "https://www.tronone.com",
+            "explorer": "https://tronscan.io/#/token/1001090",
+            "status": "active",
+            "id": "1001090"
+        },
+        {
+            "name": "Photon",
+            "symbol": "PTN",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001438",
+            "status": "abandoned",
+            "id": "1001438"
+        },
+        {
+            "name": "TRONbetDice",
+            "website": "https://wink.org",
+            "description": "DICE is the first Dapp game certificate of the WINk platform.",
+            "explorer": "https://tronscan.io/#/token20/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
+            "type": "TRC20",
+            "symbol": "DICE",
+            "decimals": 6,
+            "status": "active",
+            "id": "TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd"
+        },
+        {
+            "name": "ChinaInvestmentExchangeToken",
+            "symbol": "CIEX",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "CIEX is the official platform token issued by CIEX Digital Assets Exchange Platform on the TRON network.",
+            "website": "https://ciex.io",
+            "explorer": "https://tronscan.io/#/token20/TUH63441fBWg2Jam4qTYC8aKX7Np3fHi1b",
+            "status": "active",
+            "id": "TUH63441fBWg2Jam4qTYC8aKX7Np3fHi1b"
+        },
+        {
+            "name": "SEED",
+            "symbol": "SEED",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "Sesameseed is a blochain community that aims to provide fair and transparent representation in delegated governance.",
+            "website": "https://www.sesameseed.org/",
+            "explorer": "https://tronscan.io/#/token/1000001",
+            "status": "active",
+            "id": "1000001"
+        },
+        {
+            "name": "DLIToken",
+            "symbol": "DLI",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TXfUT4K3z8tatGAk3rEw5qMuqrPXp28h4g",
+            "status": "spam",
+            "id": "TXfUT4K3z8tatGAk3rEw5qMuqrPXp28h4g"
+        },
+        {
+            "name": "HealthPort",
+            "symbol": "EHR",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "Health Port is a patient-centric healthcare information system bringing patients a portable, interoperable, decentralized, integrated system for managing their personal electronic health records.",
+            "website": "https://healthport.io/",
+            "explorer": "https://tronscan.io/#/token/1001581",
+            "status": "active",
+            "id": "1001581"
+        },
+        {
+            "name": "Awesome",
+            "symbol": "AWS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001778",
+            "status": "abandoned",
+            "id": "1001778"
+        },
+        {
+            "name": "Paynet Coin",
+            "website": "https://paynetcoin.com",
+            "description": "Paynetcoin (PAYN) is a cryptocurrency (TRC20) that provides online travel payment platforms, e-commerce, airline tickets, tours ...",
+            "explorer": "https://tronscan.io/#/token20/TLLo3PU91yKPbwvSbuawvWKCzNX2JHYEE2",
+            "type": "TRC20",
+            "symbol": "PAYN",
+            "decimals": 8,
+            "status": "active",
+            "id": "TLLo3PU91yKPbwvSbuawvWKCzNX2JHYEE2"
+        },
+        {
+            "name": "GrafenoCoin",
+            "symbol": "GFNC",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "GrafenoCoin, GFNC, created to encourage research on Graphene",
+            "website": "https://grafenocoin.com",
+            "explorer": "https://tronscan.io/#/token/1002992",
+            "status": "active",
+            "id": "1002992"
+        },
+        {
+            "name": "ReaLife",
+            "symbol": "REAL",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TVthmvBhhmgVNnXZwCvCFoCUTC9Hj4eg6y",
+            "status": "abandoned",
+            "id": "TVthmvBhhmgVNnXZwCvCFoCUTC9Hj4eg6y"
+        },
+        {
+            "name": "GMCoin",
+            "symbol": "GMC",
+            "type": "TRC10",
+            "decimals": 2,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002357",
+            "status": "spam",
+            "id": "1002357"
+        },
+        {
+            "name": "Stream",
+            "symbol": "STI",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001142",
+            "status": "abandoned",
+            "id": "1001142"
+        },
+        {
+            "name": "CyberTron",
+            "symbol": "CTRX",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000251",
+            "status": "abandoned",
+            "id": "1000251"
+        },
+        {
+            "name": "Bestswap Community Token",
+            "symbol": "BETC",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "BETC is the community token of Bestswap. BETC issued based on TRC-20 and is mainly used for community ecological incentives, DEX ecology, voting, KOL, project listing, etc..",
+            "website": "https://bestswap.com/",
+            "explorer": "https://tronscan.io/#/token20/TJSBUFSe2E1Ncp5jo9ERD8LajjzpMa7F3C",
+            "status": "active",
+            "id": "TJSBUFSe2E1Ncp5jo9ERD8LajjzpMa7F3C"
+        },
+        {
+            "name": "Zupi Coin",
+            "website": "https://zupicoin.com",
+            "description": "ZUPI is a blockchain-based TRC-20 utility token that supports the features of decentralized applications and protocols",
+            "explorer": "https://tronscan.io/#/token20/TBnY2jGuuYYF4j7kp1otQizqF5wbEhFKxA",
+            "symbol": "ZUPI",
+            "type": "TRC20",
+            "decimals": 6,
+            "status": "active",
+            "id": "TBnY2jGuuYYF4j7kp1otQizqF5wbEhFKxA"
+        },
+        {
+            "name": "JUST",
+            "website": "https://just.network",
+            "description": "JUST aims to build a fair, decentralized financial system that provides stablecoin lending and governance mechanisms for users around the world.",
+            "explorer": "https://tronscan.io/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+            "research": "https://research.binance.com/en/projects/just",
+            "type": "TRC20",
+            "symbol": "JST",
+            "decimals": 18,
+            "status": "active",
+            "id": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+        },
+        {
+            "name": "LootUp",
+            "symbol": "LOOT",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002795",
+            "status": "abandoned",
+            "id": "1002795"
+        },
+        {
+            "name": "Power Cash",
+            "symbol": "PRCH",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "Power Cash is a low-fee consensus platform designed for real estate asset management.",
+            "website": "https://PrCh.One/",
+            "explorer": "https://tronscan.io/#/token20/TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1",
+            "status": "active",
+            "id": "TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1"
+        },
+        {
+            "name": "CryptoGuyInZA",
+            "symbol": "CGIZA",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "Crypto Guy In South Africa (CryptoGuyInZA) is a Cryptocurrency Enthusiast in South Africa that has been elected as a Tron Super Representative by the community.",
+            "website": "https://www.cryptoguyinza.co.za",
+            "explorer": "https://tronscan.io/#/token/1001313",
+            "status": "active",
+            "id": "1001313"
+        },
+        {
+            "name": "MRWEB",
+            "symbol": "AMA",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "MRweb is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. MRweb is an open source.",
+            "website": "https://mrweb.finance",
+            "explorer": "https://tronscan.io/#/token20/TVocZFCRZ6tg8MqKCKXzZ9H2qSg29T75tK",
+            "status": "active",
+            "id": "TVocZFCRZ6tg8MqKCKXzZ9H2qSg29T75tK"
+        },
+        {
+            "name": "SOON",
+            "symbol": "SOON",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001949",
+            "status": "abandoned",
+            "id": "1001949"
+        },
+        {
+            "name": "Pollux Coin",
+            "website": "https://polluxcoin.info",
+            "description": "Pollux coin is Blockchain based decentralized crypto currency which runs on Tron Blockchain designed for the file sharing and storage of data.",
+            "explorer": "https://tronscan.io/#/token20/TMnqP8yuZrKJFXN59KoVDthkmM3LRkiZXP",
+            "type": "TRC20",
+            "symbol": "POX",
+            "decimals": 8,
+            "status": "active",
+            "id": "TMnqP8yuZrKJFXN59KoVDthkmM3LRkiZXP",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/polluxcoin2020/pox"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/polluxcoin1"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/polluxcoinchat"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/PolluxCoin"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://polluxcoin.info/white-paper.pdf"
+                }
+            ]
+        },
+        {
+            "name": "POINT",
+            "symbol": "POINT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001186",
+            "status": "abandoned",
+            "id": "1001186"
+        },
+        {
+            "name": "BOOK",
+            "symbol": "WRT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000430",
+            "status": "abandoned",
+            "id": "1000430"
+        },
+        {
+            "name": "SUN",
+            "website": "https://sun.io",
+            "description": "SUN is a social experiment, which focuses on the DeFi potential of TRON.",
+            "explorer": "https://tronscan.io/#/token20/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "research": "https://research.binance.com/en/projects/sun",
+            "type": "TRC20",
+            "symbol": "SUN",
+            "decimals": 18,
+            "status": "abandoned",
+            "id": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9"
+        },
+        {
+            "name": "FURCOIN",
+            "symbol": "FUR",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001385",
+            "status": "abandoned",
+            "id": "1001385"
+        },
+        {
+            "name": "OWL",
+            "symbol": "OWL",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001353",
+            "status": "abandoned",
+            "id": "1001353"
+        },
+        {
+            "name": "Tether",
+            "website": "https://tether.to",
+            "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+            "explorer": "https://tronscan.io/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "type": "TRC20",
+            "symbol": "USDT",
+            "decimals": 6,
+            "status": "active",
+            "id": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "links": [
+                {
+                    "name": "whitepaper",
+                    "url": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/Tether_to"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/tronnetworkEN"
+                },
+                {
+                    "name": "medium",
+                    "url": "https://medium.com/tron-foundation"
+                },
+                {
+                    "name": "discord",
+                    "url": "https://discord.com/invite/hqKvyAM"
+                },
+                {
+                    "name": "reddit",
+                    "url": "https://reddit.com/r/Tronix/"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/tronfoundation"
+                }
+            ]
+        },
+        {
+            "name": "TronSV",
+            "symbol": "TSV",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1003093",
+            "status": "abandoned",
+            "id": "1003093"
+        },
+        {
+            "name": "MVMTOKEN",
+            "symbol": "MVM",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TMNyGQm6DxaaKxH2sSebScgRNsMgqANEzY",
+            "status": "abandoned",
+            "id": "TMNyGQm6DxaaKxH2sSebScgRNsMgqANEzY"
+        },
+        {
+            "name": "IDA",
+            "symbol": "IDA",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002578",
+            "status": "abandoned",
+            "id": "1002578"
+        },
+        {
+            "name": "FFToken",
+            "symbol": "FF",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TYxoK7DAvfze7ByWA7LYnzcoLxdKQpjrD1",
+            "status": "spam",
+            "id": "TYxoK7DAvfze7ByWA7LYnzcoLxdKQpjrD1"
+        },
+        {
+            "name": "TTCOIN",
+            "website": "https://ttcoin.info",
+            "description": "TTcoin is designed for use in TTcoin brands and organizations.",
+            "explorer": "https://tronscan.io/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y",
+            "type": "TRC20",
+            "symbol": "TC",
+            "decimals": 4,
+            "status": "active",
+            "id": "TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y",
+            "links": [
+                {
+                    "name": "whitepaper",
+                    "url": "https://github.com/TTCOIN-TC/tc/raw/main/whitepaper/tc-whitepaper-v2-EN.pdf"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/ttcoinofficial"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/ttcoinworld"
+                },
+                {
+                    "name": "facebook",
+                    "url": "https://facebook.com/ttcoinofficial"
+                },
+                {
+                    "name": "telegram_news",
+                    "url": "https://t.me/ttcoinofficial"
+                },
+                {
+                    "name": "youtube",
+                    "url": "https://youtube.com/channel/UCw4ctJY-VD12hwHuHl1D9kw"
+                },
+                {
+                    "name": "github",
+                    "url": "https://github.com/TTCOIN-TC/tc"
+                }
+            ]
+        },
+        {
+            "name": "TRONEuropeRewardCoin",
+            "symbol": "TERC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "It is a coin for internal use from Tron Europe which is only rewarded through voting.",
+            "website": "https://tron-europe.org/",
+            "explorer": "https://tronscan.io/#/token/1000226",
+            "status": "active",
+            "id": "1000226"
+        },
+        {
+            "name": "Hora Token",
+            "symbol": "HORA",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk",
+            "status": "abandoned",
+            "id": "TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk"
+        },
+        {
+            "name": "DEP",
+            "symbol": "dep",
+            "type": "TRC10",
+            "decimals": 5,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001909",
+            "status": "abandoned",
+            "id": "1001909"
+        },
+        {
+            "name": "DTIToken",
+            "symbol": "DTI",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TJM6YUK7PsyhncoZG3b28ZFrZFWZLuAT4n",
+            "status": "abandoned",
+            "id": "TJM6YUK7PsyhncoZG3b28ZFrZFWZLuAT4n"
+        },
+        {
+            "name": "CaptainKirk",
+            "symbol": "CKK",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001363",
+            "status": "abandoned",
+            "id": "1001363"
+        },
+        {
+            "name": "TrueUSDToken",
+            "symbol": "TrueUSD",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "TrueUSD (TUSD) is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
+            "website": "https://www.trueusd.com/",
+            "explorer": "https://tronscan.io/#/token20/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+            "status": "active",
+            "id": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/trusttoken/TrueUSD"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/tusd_official"
+                },
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/TUSDofficial_EN"
+                },
+                {
+                    "name": "medium",
+                    "url": "https://trueusd.medium.com/"
+                },
+                {
+                    "name": "coingecko",
+                    "url": "https://coingecko.com/en/coins/true-usd/"
+                }
+            ]
+        },
+        {
+            "name": "DXNToken",
+            "symbol": "DXN",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TNZXVQUKQ8Gnjq2BqLvt2kC5WbeDQc1q3j",
+            "status": "spam",
+            "id": "TNZXVQUKQ8Gnjq2BqLvt2kC5WbeDQc1q3j"
+        },
+        {
+            "name": "Phoneum",
+            "symbol": "PHT",
+            "type": "TRC10",
+            "decimals": 2,
+            "description": "Phoneum is a true mobile-only cryptocurrency, designed to deliver a simplified user experience and platform that enables all users",
+            "website": "https://phoneum.io/",
+            "explorer": "https://tronscan.io/#/token/1003095",
+            "status": "active",
+            "id": "1003095"
+        },
+        {
+            "name": "451PCBCOM",
+            "symbol": "PCB",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TJzcEaqgYk9g4jZLEsB2DksLGikM4dWwYJ",
+            "status": "abandoned",
+            "id": "TJzcEaqgYk9g4jZLEsB2DksLGikM4dWwYJ"
+        },
+        {
+            "name": "RoboQuarter",
+            "symbol": "RbQ",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000811",
+            "status": "abandoned",
+            "id": "1000811"
+        },
+        {
+            "name": "JackPool.finance",
+            "website": "https://jackpool.finance",
+            "description": "JFI is described to be a yield farming profit maximiser protocol on Justswap.",
+            "explorer": "https://tronscan.io/#/token20/TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha",
+            "type": "TRC20",
+            "symbol": "JFI",
+            "decimals": 18,
+            "status": "active",
+            "id": "TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha"
+        },
+        {
+            "name": "LIME",
+            "symbol": "LIME",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TJ63TQ3fvibq9pgkiFysPgDWkim1tBjejC",
+            "status": "abandoned",
+            "id": "TJ63TQ3fvibq9pgkiFysPgDWkim1tBjejC"
+        },
+        {
+            "name": "Criptoblock",
+            "symbol": "CBK",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002570",
+            "status": "abandoned",
+            "id": "1002570"
+        },
+        {
+            "name": "JUST Stablecoin",
+            "symbol": "USDJ",
+            "type": "TRC20",
+            "decimals": 18,
+            "description": "USDJ is a stablecoin of TRON. It’s generated through decentralized smart contracts on the TRON network. Anyone can pledge TRX as collateral to generate USDJ. USDJ enters into free circulation as any other cryptocurrency does once generated. It is pegged to the US dollar through Collateralized Debt Positions (CDPs), and also has autonomous feedback mechanisms.",
+            "website": "https://www.just.network/",
+            "explorer": "https://tronscan.io/#/token20/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+            "status": "active",
+            "id": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT"
+        },
+        {
+            "name": "TronID",
+            "symbol": "TronID",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001559",
+            "status": "abandoned",
+            "id": "1001559"
+        },
+        {
+            "name": "TRONO",
+            "symbol": "TRONO",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001414",
+            "status": "abandoned",
+            "id": "1001414"
+        },
+        {
+            "name": "YLToken",
+            "symbol": "YL",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TYNgrZX2eLPZ8UUoZEWuiUZYn3bh8fHU8f",
+            "status": "spam",
+            "id": "TYNgrZX2eLPZ8UUoZEWuiUZYn3bh8fHU8f"
+        },
+        {
+            "name": "tronloot",
+            "symbol": "LOOT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000999",
+            "status": "abandoned",
+            "id": "1000999"
+        },
+        {
+            "name": "TronArt",
+            "symbol": "TAR",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001617",
+            "status": "abandoned",
+            "id": "1001617"
+        },
+        {
+            "name": "TronPlatinumBusiness",
+            "symbol": "TPLB",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001046",
+            "status": "abandoned",
+            "id": "1001046"
+        },
+        {
+            "name": "TimerGuardBox",
+            "symbol": "TGB",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001845",
+            "status": "abandoned",
+            "id": "1001845"
+        },
+        {
+            "name": "Alivio",
+            "symbol": "ALIV",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000709",
+            "status": "abandoned",
+            "id": "1000709"
+        },
+        {
+            "name": "USD Coin",
+            "type": "TRC20",
+            "symbol": "USDC",
+            "decimals": 6,
+            "website": "https://www.centre.io",
+            "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+            "explorer": "https://tronscan.io/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "status": "active",
+            "id": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/centrehq"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/centre_io"
+                }
+            ]
+        },
+        {
+            "name": "ECOECTRON",
+            "symbol": "ECOEC",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002469",
+            "status": "abandoned",
+            "id": "1002469"
+        },
+        {
+            "name": "GhostNote",
+            "symbol": "GNOTE",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000930",
+            "status": "abandoned",
+            "id": "1000930"
+        },
+        {
+            "name": "BattleHashes",
+            "symbol": "BHS",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002831",
+            "status": "spam",
+            "id": "1002831"
+        },
+        {
+            "name": "Enme Token",
+            "symbol": "EME",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TCRhVHPv6efvXgogNMhiunAMXFKcMmv2pF",
+            "status": "abandoned",
+            "id": "TCRhVHPv6efvXgogNMhiunAMXFKcMmv2pF"
+        },
+        {
+            "name": "SiddhaMedicine",
+            "symbol": "SMC",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000566",
+            "status": "abandoned",
+            "id": "1000566"
+        },
+        {
+            "name": "WIN",
+            "symbol": "WIN",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000161",
+            "status": "abandoned",
+            "id": "1000161"
+        },
+        {
+            "name": "TronPlatinumElite",
+            "symbol": "TPLE",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001047",
+            "status": "abandoned",
+            "id": "1001047"
+        },
+        {
+            "name": "iWiW",
+            "symbol": "iWiW",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002093",
+            "status": "abandoned",
+            "id": "1002093"
+        },
+        {
+            "name": "REC",
+            "symbol": "REC",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1002058",
+            "status": "abandoned",
+            "id": "1002058"
+        },
+        {
+            "name": "Txc",
+            "symbol": "Txc",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1003148",
+            "status": "abandoned",
+            "id": "1003148"
+        },
+        {
+            "name": "IBIZALUXURY",
+            "symbol": "IBZ",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000391",
+            "status": "abandoned",
+            "id": "1000391"
+        },
+        {
+            "name": "SEG",
+            "symbol": "SEG",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000900",
+            "status": "abandoned",
+            "id": "1000900"
+        },
+        {
+            "name": "WINk",
+            "website": "https://wink.org",
+            "description": "WINK (formerly TRONBet) describes itself as a betting DApp based on the TRC20 WIN token.",
+            "explorer": "https://tronscan.io/#/token20/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+            "type": "TRC20",
+            "symbol": "WIN",
+            "decimals": 6,
+            "status": "active",
+            "id": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+            "links": [
+                {
+                    "name": "telegram",
+                    "url": "https://t.me/WINkLink_Oracle_official"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/WinkLink_Oracle"
+                },
+                {
+                    "name": "whitepaper",
+                    "url": "https://winklink.org/#/"
+                }
+            ]
+        },
+        {
+            "name": "Travelcoins",
+            "symbol": "TRVx",
+            "type": "TRC20",
+            "decimals": 6,
+            "description": "The Travelcoins tokens and smart contracts ecosystem will be used in the travel industry and bring all travel ecosystems together with a public travel blockchain.",
+            "website": "https://travelcoins.io/",
+            "explorer": "https://tronscan.io/#/token20/TQhfmGiZvRt3oe9vKv6W9WXRr4oErxc8RE",
+            "status": "active",
+            "id": "TQhfmGiZvRt3oe9vKv6W9WXRr4oErxc8RE"
+        },
+        {
+            "name": "EOY",
+            "symbol": "EOY",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001217",
+            "status": "abandoned",
+            "id": "1001217"
+        },
+        {
+            "name": "AZEUSX",
+            "type": "TRC20",
+            "symbol": "AZX",
+            "decimals": 6,
+            "description": "AZX is a platform for the future of funding that powering dat for the new equity blockchain",
+            "website": "https://azeusx.com",
+            "explorer": "https://tronscan.io/#/token20/TWXZxJDGWVhNz2SXx31kQGA5kb2cjAz9ys",
+            "status": "active",
+            "id": "TWXZxJDGWVhNz2SXx31kQGA5kb2cjAz9ys"
+        },
+        {
+            "name": "RUOKToken",
+            "symbol": "RUOK",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000907",
+            "status": "abandoned",
+            "id": "1000907"
+        },
+        {
+            "name": "ZetBit",
+            "symbol": "ZBT",
+            "type": "TRC10",
+            "decimals": 6,
+            "description": "ZetBit is an open source peer-to-peer digital currency.",
+            "website": "https://tronscan.io/www.zetbit.io",
+            "explorer": "https://tronscan.io/#/token/1003123",
+            "status": "active",
+            "id": "1003123"
+        },
+        {
+            "name": "Centric RISE",
+            "symbol": "CNR",
+            "type": "TRC20",
+            "decimals": 8,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token20/TYLrbh1pVcx95bop33XQ1iYdh7r3ogEQ8Q",
+            "status": "active",
+            "id": "TYLrbh1pVcx95bop33XQ1iYdh7r3ogEQ8Q"
+        },
+        {
+            "name": "TronLoot",
+            "symbol": "LOOT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1000307",
+            "status": "spam",
+            "id": "1000307"
+        },
+        {
+            "name": "Elite",
+            "symbol": "ELT",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001645",
+            "status": "abandoned",
+            "id": "1001645"
+        },
+        {
+            "name": "TronPlatinum",
+            "symbol": "TPL",
+            "type": "TRC10",
+            "decimals": 0,
+            "description": "-",
+            "website": "",
+            "explorer": "https://tronscan.io/#/token/1001013",
+            "status": "abandoned",
+            "id": "1001013"
+        }
+    ]
+}
